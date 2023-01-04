@@ -15,8 +15,8 @@ h1{
 .header-with{
     width: 40%;
     float: left;
-    margin: 5%;
-    padding: 0%;
+    margin-left: 5%;
+    padding-left: 2%;
 }
 .header-with img{
     width: 100%;
@@ -28,4 +28,16 @@ h1{
 }
 section{
     height: 500px;
+}
+.main-button{
+    color: white;
+    background-color: coral;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 5%;
+}
+.big-dream{
+    border: 1px solid red;
+    background-image: url("/img/top-banners.png");
+    background-repeat: no-repeat;
 }
